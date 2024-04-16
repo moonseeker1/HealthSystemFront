@@ -1,4 +1,5 @@
 
+# 此项目停止维护
 
 <h4 align="center">chatgpt全网开源程序功能最全版本</h4>
 
